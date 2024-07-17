@@ -21,4 +21,4 @@ estarão presentes no Dashboard no Power BI que pode ser acessado por este [link
 Todo o código e sintaxe utilizada para realização da limpeza e manipulação de dados pode ser acessado pelo arquivo do Jupyter Nutebook.
 
 Para fins de visualização, será anexado uma imagem do Dashboard abaixo:
-![Prévia Dashboard]
+![Prévia Dashboard](./painel2.png)
