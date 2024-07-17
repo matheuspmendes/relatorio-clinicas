@@ -9,10 +9,11 @@ foram previamente anonimizados, não contendo nenhuma informação sensível.
 
 ## Estudo de caso
 
-O proposto para este Case foi a criação de um dashboard para controle de faturamento anual de um Salão de Beleza,
-todos os dados foram obtidos do sistema de gestão da empresa, gerados a partir de uma planilha de excel.
-Os dados utilizados são entradas de cada serviço realizado contendo data, serviço prestado, profissional, quantidade de serviços,
-valor, dentre outras métricas.
+O proposto para este Case é de gerar um dashboard contendo informações referentes KPI's específicas de médicos e 
+especialidades como forma de avaliação de desempenho para a equipe de gestão. Para isto, foram concedidos três arquivos
+em planilhas de excel contendo Faltas (informações referentes à agenda médica, remarcação de consultas dentre outras métricas),
+Espera (informações geradas na recepção contendo informações sobre consultas realizadas e tempo de espera dos pacientes) e 
+Produtividade (contendo número de consultas realizadas e total de horas computadas pelo sistema).
 
 Por ser um projeto de criação de dashboard em BI, o Python foi usado somente 
 para **tratamento e manipulação dos dados**, todas as análises e resultados
@@ -21,5 +22,3 @@ Todo o código e sintaxe utilizada para realização da limpeza e manipulação 
 
 Para fins de visualização, será anexado uma imagem do Dashboard abaixo:
 ![Prévia Dashboard]
-
-
