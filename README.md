@@ -18,6 +18,8 @@ Produtividade (contendo número de consultas realizadas e total de horas computa
 Por ser um projeto de criação de dashboard em BI, o Python foi usado somente 
 para **tratamento e manipulação dos dados**, todas as análises e resultados
 estarão presentes no Dashboard no Power BI que pode ser acessado por este [link](https://app.powerbi.com/view?r=eyJrIjoiNDA2ZGIyZmEtODZkNy00Y2Y3LWExODYtNTUwNzU3NGUyODVmIiwidCI6IjI1Y2VlODZhLTBmYzUtNDRiNC1iOWQwLWE5NzA4YWVkMjg1MyJ9):
+
+
 Todo o código e sintaxe utilizada para realização da limpeza e manipulação de dados pode ser acessado pelo arquivo do Jupyter Nutebook.
 
 Para fins de visualização, será anexado uma imagem do Dashboard abaixo:
